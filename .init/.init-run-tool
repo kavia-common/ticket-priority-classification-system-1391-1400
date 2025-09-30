@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && flask run --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/ticket-priority-classification-system-1391-1400/ml_backend"
+}
